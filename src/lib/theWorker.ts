@@ -1,3 +1,3 @@
 import { hello } from ".";
 
-self.postMessage(hello("worker"));
+self.postMessage(hello("Vite"));
